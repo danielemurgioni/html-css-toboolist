@@ -3,3 +3,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/*header*/
+
+.v-align{
+    vertical-align: middle;
+}
+
+.d-inlineblock{
+    display: inline-block;
+}
