@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.c-white{
+    color: white;
+}
+
 /*header*/
 
 .v-align{
@@ -13,3 +17,22 @@
 .d-inlineblock{
     display: inline-block;
 }
+
+/*end header*/
+
+/*main*/
+
+.b-task{
+    background-color:#47ABF2;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.b-section{
+    color: grey;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/*end main*/
