@@ -62,59 +62,54 @@ li{
     margin: 10px;
 }
 
-.circle-check{
+.circle{
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.check{
     color: green;
-    border-radius: 50%;
     border: 1px solid green;
-    margin-right: 5px;
 }
 
-.circle-cross{
+.cross{
     color: red;
-    border-radius: 50%;
     border: 1px solid red;
-    margin-right: 5px;
 }
 
-.bc-editorial{
+.border{
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.editorial{
     background-color:#47ABF2;
-    border-radius: 15px;
-    padding: 5px;
     font-size: smaller;
 }
 
-.bc-goals{
+.goals{
     background-color:purple;
-    border-radius: 15px;
-    padding: 5px;
     font-size: smaller;
 }
 
-.bc-recruit{
+.recruit{
     background-color:green;
-    border-radius: 15px;
-    padding: 5px;
     font-size: smaller;
 }
 
-.bc-mobile{
+.mobile{
     background-color:orange;
-    border-radius: 15px;
-    padding: 5px;
     font-size: smaller;
 }
 
-.bc-web{
+.web{
     background-color:pink;
-    border-radius: 15px;
-    padding: 5px;
     font-size: smaller;
 }
 
-.bc-sales{
+.sales{
     background-color: brown;
-    border-radius: 15px;
-    padding: 5px;
     font-size: smaller;
 }
+
 /*end main*/
