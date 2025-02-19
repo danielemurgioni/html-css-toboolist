@@ -40,15 +40,16 @@ main{
     margin: 50px auto 0 auto;
 }
 
-.b-task{
+.task{
     background-color:#47ABF2;
-    border-radius: 5px;
-    padding: 5px;
 }
 
-.b-section{
+.section{
     color: grey;
     border: 1px solid grey;
+}
+
+.border-btn{
     border-radius: 5px;
     padding: 5px;
 }
@@ -82,34 +83,32 @@ li{
     padding: 5px;
 }
 
+.font-size{
+    font-size: smaller;
+}
+
 .editorial{
     background-color:#47ABF2;
-    font-size: smaller;
 }
 
 .goals{
     background-color:purple;
-    font-size: smaller;
 }
 
 .recruit{
     background-color:green;
-    font-size: smaller;
 }
 
 .mobile{
     background-color:orange;
-    font-size: smaller;
 }
 
 .web{
     background-color:pink;
-    font-size: smaller;
 }
 
 .sales{
     background-color: brown;
-    font-size: smaller;
 }
 
 /*end main*/
